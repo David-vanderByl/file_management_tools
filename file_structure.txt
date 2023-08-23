@@ -1,0 +1,22 @@
+/Users/davidvanderbyl/Documents/GitHub/file_management_tools
+├─ tools/
+│  ├─ generate_requirements_txt.py
+│  ├─ notebook_TOC.py
+│  ├─ ipynb_to_md.py
+│  ├─ file_struct.py
+│  ├─ txt_to_code.py
+│  ├─ __init__.py
+│  ├─ project_struct_create.py
+│  ├─ initi_generator.py
+│  ├─ md_to_word.py
+│  ├─ md_to_ipynb.py
+│  ├─ code_to_txt.py
+├─ requirements.txt
+├─ file_management_tools.code-workspace
+├─ tests/
+│  ├─ test_init_generator.py
+│  ├─ test.md
+│  ├─ test.ipynb
+├─ README.md
+├─ .gitignore
+├─ file_structure.txt
