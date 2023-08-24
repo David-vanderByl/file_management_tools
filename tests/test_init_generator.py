@@ -10,7 +10,7 @@ root_dir = os.path.abspath(os.path.join(current_dir, '..', '..', '..', '..'))
 sys.path.append(root_dir)
 
 
-from DS_toolbox.utils.file_management.initi_generator import get_symbols_to_include, create_init_file
+from tools import get_symbols_to_include, create_init_file
 
 def test_get_symbols_to_include():
     # Use a script file you know the result for as test input

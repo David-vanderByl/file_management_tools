@@ -81,7 +81,7 @@ Once you have the required dependencies installed, you can use the tools by runn
 
 ## Testing
 
-Unit tests are provided to ensure the functionality of the tools. You can run the tests using a testing framework such as `pytest`.
+Unit tests are not well provided but if you wish to customise these tools you can create your own tests to ensure the functionality of the tools. You can run the tests using a testing framework such as `pytest`.
 
 To run the tests:
 
