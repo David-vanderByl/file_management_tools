@@ -11,11 +11,9 @@ def create_file_structure_file(root_dir):
     Returns:
         None
     """
-    output_file = "file_structure.txt"
+    output_file = root_dir + "/file_structure.txt"
     with open(output_file, 'w') as file:
-        p = f"{root_dir}\n"
-        print(p)
-        file.write(f"{root_dir}\n")  # Write the project root directory
+        print(f"\n File saved to: {output_file}\n")
         file.write(generate_file_structure(root_dir))  # Generate and write the file structure
 
 

@@ -1,4 +1,3 @@
-/Users/davidvanderbyl/Documents/GitHub/file_management_tools
 ├─ tools/
 │  ├─ generate_requirements_txt.py
 │  ├─ notebook_TOC.py
@@ -20,3 +19,98 @@
 ├─ README.md
 ├─ .gitignore
 ├─ file_structure.txt
+├─ .git/
+│  ├─ ORIG_HEAD
+│  ├─ config
+│  ├─ objects/
+│  │  ├─ 0c/
+│  │  │  ├─ c4857b5e70f7bcdaad2587d9df47823b2eeeee
+│  │  ├─ 68/
+│  │  │  ├─ 01f5b153ca2d587b8f19639fadf16847a8ff1b
+│  │  ├─ 9b/
+│  │  │  ├─ 350baccacb4efaab708d54141b7ab6bda6848a
+│  │  ├─ 6a/
+│  │  │  ├─ a6935b04c8805dc95d6206564077276daccc6a
+│  │  ├─ 0b/
+│  │  │  ├─ 899e97a47a15bb9e2914bd51931a86b510de83
+│  │  ├─ ab/
+│  │  │  ├─ 787e80140121923db955d46ed2517e1d93b293
+│  │  ├─ c0/
+│  │  │  ├─ 2a3ca27f11e86447a1cfd2fb4b5b6488706f35
+│  │  ├─ cf/
+│  │  │  ├─ 7d59b38a80c1d053ce34d58da47fb77b8d5b27
+│  │  ├─ e4/
+│  │  │  ├─ edca2a9d71819522c1176f5f06c005dbd3b1d4
+│  │  ├─ fb/
+│  │  │  ├─ d8650b1755f0f65375d67b952400f828940b09
+│  │  ├─ ed/
+│  │  │  ├─ 41f072d330fca192c2b2c50b3b795935251ba4
+│  │  ├─ 4e/
+│  │  │  ├─ 924a06765b72c82ff65a927f6bc9ea2ff6f88f
+│  │  ├─ pack/
+│  │  ├─ 21/
+│  │  │  ├─ 2223a7b6c018675d47425703bf3b8bf6a77591
+│  │  │  ├─ f9190bbeb580cbdfa07e4b19566ee36f9ba043
+│  │  ├─ 5d/
+│  │  │  ├─ 483fe99b8917b65389c7ba4e4035aed7b4747b
+│  │  ├─ info/
+│  │  ├─ 30/
+│  │  │  ├─ 3f6bd02ce4eec3f38e1ca03b77d29edb35c919
+│  │  ├─ bf/
+│  │  │  ├─ 832a18bd2d7184f859fadf2472f1bce52352e8
+│  │  ├─ d3/
+│  │  │  ├─ b2e128b72e6396470ab55f3099de3ea99b081f
+│  │  ├─ dd/
+│  │  │  ├─ fd85cd83f874bc7c818e4ecf555705f7b4207d
+│  │  ├─ b6/
+│  │  │  ├─ d04db8bab00ba44060f98219dc5d65802b4810
+│  │  ├─ f0/
+│  │  │  ├─ 5f7a01ac9fa261b243471e35beffea0e151464
+│  │  ├─ 70/
+│  │  │  ├─ 2662f6c6ce4c46ded90f4859162b4fc31d797f
+│  │  ├─ 1e/
+│  │  │  ├─ f3be1351f64407d68dac437fd6f483b911c0ad
+│  │  ├─ 84/
+│  │  │  ├─ d7a9d3dd182322e9e6fc0b0b752d8c73cf82b3
+│  │  ├─ 76/
+│  │  │  ├─ c24e2d37b1950e52070ee2bed9d94c66db016d
+│  │  ├─ 7f/
+│  │  │  ├─ f1b0e4041f76148a280f11facfba3ce64eb9b5
+│  ├─ HEAD
+│  ├─ info/
+│  │  ├─ exclude
+│  ├─ logs/
+│  │  ├─ HEAD
+│  │  ├─ refs/
+│  │  │  ├─ heads/
+│  │  │  │  ├─ main
+│  │  │  ├─ remotes/
+│  │  │  │  ├─ origin/
+│  │  │  │  │  ├─ main
+│  ├─ description
+│  ├─ hooks/
+│  │  ├─ commit-msg.sample
+│  │  ├─ pre-rebase.sample
+│  │  ├─ pre-commit.sample
+│  │  ├─ applypatch-msg.sample
+│  │  ├─ fsmonitor-watchman.sample
+│  │  ├─ pre-receive.sample
+│  │  ├─ prepare-commit-msg.sample
+│  │  ├─ post-update.sample
+│  │  ├─ pre-merge-commit.sample
+│  │  ├─ pre-applypatch.sample
+│  │  ├─ pre-push.sample
+│  │  ├─ update.sample
+│  │  ├─ push-to-checkout.sample
+│  ├─ refs/
+│  │  ├─ heads/
+│  │  │  ├─ main
+│  │  ├─ tags/
+│  │  ├─ remotes/
+│  │  │  ├─ origin/
+│  │  │  │  ├─ main
+│  ├─ index
+│  ├─ COMMIT_EDITMSG
+│  ├─ FETCH_HEAD
+├─ .vscode/
+│  ├─ settings.json
